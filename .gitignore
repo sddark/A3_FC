@@ -1,0 +1,6 @@
+# Vendor stock firmware dump — kept local + on the Pi only, NOT for a public repo
+backup/
+
+# Build artifacts (generated on the Pi)
+*.elf
+*.hex
